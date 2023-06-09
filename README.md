@@ -1,6 +1,6 @@
 # BikeCam ANPR🚴
 
-As part of University of Leeds ELEC3885 group design project, BikeCam ANPR, a fully automated license plate recognition software, was developed to assist cyclists in documenting their recorded journey. The system utilises a custom trained YOLOv5 object detection model and Tesseract OCR to perform number plate extractions.
+As part of the University of Leeds ELEC3885 group design project, BikeCam ANPR - a fully automated license plate recognition software - was developed to assist cyclists in documenting their recorded journey. The system utilises a custom trained YOLOv5 object detection model and Tesseract OCR to perform number plate extractions.
 
 # System Requirement
 
