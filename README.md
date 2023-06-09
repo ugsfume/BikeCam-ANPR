@@ -9,7 +9,13 @@ Python 3.8.10 or newer
 # Setup
 
 1. Install Tesseract OCR engine <br />
+For Windows:
 https://osdn.net/projects/sfnet_tesseract-ocr-alt/downloads/tesseract-ocr-setup-3.02.02.exe/
+
+For Debian-based Linux
+```
+sudo apt install tesseract-ocr -y
+```
 
 2. Install dependencies
 
