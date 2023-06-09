@@ -10,10 +10,10 @@ Python 3.8.10 or newer
 
 1. Install Tesseract OCR engine <br />
 
-For Windows:
+For Windows: <br />
 https://osdn.net/projects/sfnet_tesseract-ocr-alt/downloads/tesseract-ocr-setup-3.02.02.exe/
 
-For Debian-based Linux
+For Debian-based Linux:
 ```
 sudo apt install tesseract-ocr -y
 ```
@@ -26,12 +26,12 @@ pip install -r requirements.txt
 
 # Launch
 
-1. In image or video directory
+1. In image or video directory, run:
 ```
 python app.py
 ```
 
-2. In browser
+2. In browser, open:
 ```
 127.0.0.1:5000/
 ```
